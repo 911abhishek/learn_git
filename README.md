@@ -1,3 +1,4 @@
 # learn_git
-I have made this for educational purpose i am currently learning git from coursera
-I am making this changes from git using clone feature
+1)I have made this for educational purpose i am currently learning git from coursera
+2)I am making this changes from git using clone feature
+3)I have made some changes here to fetch it using git 
