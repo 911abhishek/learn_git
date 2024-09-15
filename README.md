@@ -8,3 +8,9 @@ remote : I have made some changes here to fetch it using git
 remote : something to make change so i can do that twice for  a good foundation
 
 local : push  from local to remote
+
+--------------------------------------------------------------------------------
+##Coursera Task
+
+I am editing the README file. Adding some more details about the project description.
+
